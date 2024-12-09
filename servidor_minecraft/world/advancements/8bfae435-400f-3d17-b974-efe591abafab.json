@@ -1168,7 +1168,9 @@
       "minecraft:blaze": "2024-12-08 23:43:58 +0000",
       "minecraft:skeleton": "2024-12-09 00:00:31 +0000",
       "minecraft:spider": "2024-12-08 23:42:04 +0000",
-      "minecraft:zombie": "2024-12-08 23:53:50 +0000"
+      "minecraft:witch": "2024-12-09 17:53:51 +0000",
+      "minecraft:zombie": "2024-12-08 23:53:50 +0000",
+      "minecraft:zombie_villager": "2024-12-09 17:56:03 +0000"
     },
     "done": false
   },
@@ -2129,6 +2131,36 @@
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2024-12-09 17:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-09 18:03:19 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/copper_blueprint": {
+    "criteria": {
+      "copper_blueprint": "2024-12-09 17:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-09 18:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-09 18:02:10 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/iron_blueprint": {
+    "criteria": {
+      "iron_blueprint": "2024-12-09 17:54:12 +0000"
     },
     "done": true
   },
