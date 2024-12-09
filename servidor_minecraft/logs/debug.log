@@ -11179,3 +11179,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 21:01:09.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
 [09Dec2024 21:06:09.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [09Dec2024 21:06:09.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[09Dec2024 21:07:53.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx has made the advancement [The Parrots and the Bats]
+[09Dec2024 21:09:34.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[09Dec2024 21:09:34.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[09Dec2024 21:11:09.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[09Dec2024 21:11:09.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[09Dec2024 21:16:09.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[09Dec2024 21:16:09.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
