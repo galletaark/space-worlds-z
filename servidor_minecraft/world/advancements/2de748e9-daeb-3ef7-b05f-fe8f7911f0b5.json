@@ -2240,21 +2240,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+  "scguns:main/end_blueprint": {
     "criteria": {
-      "has_salmon": "2024-12-09 16:09:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2024-12-09 16:09:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2024-12-09 16:09:05 +0000"
+      "end_blueprint": "2024-12-09 15:51:28 +0000"
     },
     "done": true
   },
@@ -2270,9 +2258,21 @@
     },
     "done": true
   },
-  "scguns:main/end_blueprint": {
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
-      "end_blueprint": "2024-12-09 15:51:28 +0000"
+      "has_salmon": "2024-12-09 16:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-09 16:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-09 16:09:05 +0000"
     },
     "done": true
   },
