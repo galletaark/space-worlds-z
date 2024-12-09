@@ -47,6 +47,7 @@
       "minecraft:warm_ocean": "2024-12-08 21:15:24 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-08 18:39:20 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-08 19:00:17 +0000",
+      "minecraft:meadow": "2024-12-09 19:22:29 +0000",
       "minecraft:savanna": "2024-12-08 18:37:44 +0000",
       "minecraft:plains": "2024-12-08 18:25:20 +0000"
     },
@@ -589,6 +590,7 @@
       "minecraft:pillager": "2024-12-09 01:34:33 +0000",
       "minecraft:skeleton": "2024-12-08 19:03:00 +0000",
       "minecraft:spider": "2024-12-08 18:51:41 +0000",
+      "minecraft:creeper": "2024-12-09 19:20:07 +0000",
       "minecraft:witch": "2024-12-08 18:51:08 +0000",
       "minecraft:zombie": "2024-12-08 19:00:12 +0000"
     },
@@ -2055,6 +2057,24 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-09 19:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-09 19:21:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-09 19:21:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-09 19:21:27 +0000"
     },
     "done": true
   },

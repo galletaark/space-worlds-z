@@ -3531,3 +3531,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 19:15:08.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 45053ms or 901 ticks behind
 [09Dec2024 19:15:10.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.177.208.185:53457] logged in with entity id 46224 at (2574.300000011921, -9.0, -4365.330960075688)
 [09Dec2024 19:15:10.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[09Dec2024 19:16:54.136] [ForkJoinPool.commonPool-worker-55/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[09Dec2024 19:16:54.155] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iForming[/127.66.71.158:50665] logged in with entity id 46757 at (148.51572298443952, 62.07326432466507, -744.8454131115088)
+[09Dec2024 19:16:54.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iForming joined the game
+[09Dec2024 19:19:08.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[09Dec2024 19:19:08.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[09Dec2024 19:19:08.281] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iForming lost connection: Disconnected
+[09Dec2024 19:19:08.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iForming left the game
+[09Dec2024 19:19:08.291] [ForkJoinPool.commonPool-worker-57/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> a
+[09Dec2024 19:19:08.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 48816ms or 976 ticks behind
+[09Dec2024 19:19:11.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.177.208.185:45763] logged in with entity id 48729 at (2657.699999988079, -21.0, -4335.246324527045)
+[09Dec2024 19:19:11.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[09Dec2024 19:19:23.095] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[09Dec2024 19:24:11.903] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
