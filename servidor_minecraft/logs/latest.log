@@ -3564,3 +3564,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 19:32:02.928] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
 [09Dec2024 19:32:46.537] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [easy_npc:network,framework:play,dayzombierebooted:dayzombierebooted,zombiekit:zombiekit,tacz:handshake,better_zombie_drops:better_zombie_drops,curios:main,sona:sona,framework:handshake,simpleplanes:main,scguns:play,modern_structures:modern_structures,hordes:infection,cure:cure,extinction:extinction,hordes:hordeevent,tacz:network,geckolib:main] rejected vanilla connections
 [09Dec2024 19:32:46.538] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.66.71.158:52057] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[09Dec2024 19:56:26.544] [Worker-Main-189/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[09Dec2024 19:56:50.455] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-378, y=56, z=-18}
+[09Dec2024 19:56:50.455] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=56, z=-17}
+[09Dec2024 19:56:50.455] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=56, z=-17}
+[09Dec2024 19:56:50.456] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=56, z=-15}
+[09Dec2024 19:56:50.456] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=56, z=-15}
+[09Dec2024 19:56:50.456] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-378, y=57, z=-14}
+[09Dec2024 19:59:38.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: a}
+[09Dec2024 20:02:44.204] [ForkJoinPool.commonPool-worker-61/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> de 40 personas solo yo estoy conectado xd
