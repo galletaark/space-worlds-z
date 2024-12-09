@@ -3544,3 +3544,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 19:19:11.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
 [09Dec2024 19:19:23.095] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
 [09Dec2024 19:24:11.903] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[09Dec2024 19:25:43.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIOTNyx lost connection: Disconnected
+[09Dec2024 19:25:43.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx left the game
+[09Dec2024 19:27:51.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.177.208.185:45839] logged in with entity id 50905 at (2677.952124740815, -30.0, -4289.173402351801)
+[09Dec2024 19:27:51.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
+[09Dec2024 19:29:33.967] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=56, z=-17}
+[09Dec2024 19:29:33.968] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=56, z=-15}
+[09Dec2024 19:29:33.996] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-378, y=56, z=-18}
+[09Dec2024 19:29:33.997] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=56, z=-17}
+[09Dec2024 19:29:33.997] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=56, z=-15}
+[09Dec2024 19:29:33.997] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-378, y=57, z=-14}
+[09Dec2024 19:32:02.911] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[09Dec2024 19:32:02.911] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[09Dec2024 19:32:02.911] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[09Dec2024 19:32:02.911] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[09Dec2024 19:32:02.912] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[09Dec2024 19:32:02.912] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[09Dec2024 19:32:02.928] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[09Dec2024 19:32:02.928] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[09Dec2024 19:32:46.537] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [easy_npc:network,framework:play,dayzombierebooted:dayzombierebooted,zombiekit:zombiekit,tacz:handshake,better_zombie_drops:better_zombie_drops,curios:main,sona:sona,framework:handshake,simpleplanes:main,scguns:play,modern_structures:modern_structures,hordes:infection,cure:cure,extinction:extinction,hordes:hordeevent,tacz:network,geckolib:main] rejected vanilla connections
+[09Dec2024 19:32:46.538] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.66.71.158:52057] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.

@@ -47,6 +47,7 @@
       "minecraft:warm_ocean": "2024-12-08 21:15:24 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-08 18:39:20 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-08 19:00:17 +0000",
+      "minecraft:deep_dark": "2024-12-09 19:31:09 +0000",
       "minecraft:meadow": "2024-12-09 19:22:29 +0000",
       "minecraft:savanna": "2024-12-08 18:37:44 +0000",
       "minecraft:plains": "2024-12-08 18:25:20 +0000"
@@ -2075,6 +2076,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-09 19:21:27 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/anthralite": {
+    "criteria": {
+      "anthralite_ingot": "2024-12-09 19:38:54 +0000"
     },
     "done": true
   },
