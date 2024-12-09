@@ -3575,3 +3575,50 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 20:02:44.204] [ForkJoinPool.commonPool-worker-61/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> de 40 personas solo yo estoy conectado xd
 [09Dec2024 20:07:14.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: ga
 [09Dec2024 20:10:26.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx has made the advancement [Sweet Dreams]
+[09Dec2024 20:16:59.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rebondrake5556[/127.223.108.19:50757] logged in with entity id 63076 at (226.2464701348776, 81.54602865716363, 1034.684282196805)
+[09Dec2024 20:16:59.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 joined the game
+[09Dec2024 20:18:21.138] [ForkJoinPool.commonPool-worker-63/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> voy a cargar chunks pa que crashee
+[09Dec2024 20:18:45.426] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-112, y=65, z=-12}
+[09Dec2024 20:18:45.427] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-109, y=65, z=-10}
+[09Dec2024 20:18:45.427] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-112, y=71, z=-12}
+[09Dec2024 20:18:45.427] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-112, y=79, z=-12}
+[09Dec2024 20:18:45.427] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-110, y=79, z=-10}
+[09Dec2024 20:18:46.606] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-98, y=57, z=19}
+[09Dec2024 20:18:46.606] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-98, y=57, z=21}
+[09Dec2024 20:18:46.606] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-91, y=57, z=21}
+[09Dec2024 20:18:46.606] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-91, y=57, z=19}
+[09Dec2024 20:18:46.607] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-93, y=59, z=19}
+[09Dec2024 20:18:46.607] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-93, y=59, z=20}
+[09Dec2024 20:18:46.607] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-93, y=59, z=21}
+[09Dec2024 20:18:57.085] [Worker-Main-189/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-352, y=57, z=-21}
+[09Dec2024 20:18:57.086] [Worker-Main-189/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-352, y=57, z=-18}
+[09Dec2024 20:18:57.124] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-324, y=56, z=-21}
+[09Dec2024 20:18:57.124] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-324, y=56, z=-18}
+[09Dec2024 20:19:07.747] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=56, z=-51}
+[09Dec2024 20:19:07.748] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=56, z=-54}
+[09Dec2024 20:19:07.748] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=57, z=-51}
+[09Dec2024 20:19:07.748] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=57, z=-54}
+[09Dec2024 20:19:12.286] [Worker-Main-138/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[09Dec2024 20:19:12.287] [Worker-Main-138/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[09Dec2024 20:19:12.368] [Worker-Main-189/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[09Dec2024 20:19:22.647] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=56, z=-51}
+[09Dec2024 20:19:22.648] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=56, z=-54}
+[09Dec2024 20:19:22.648] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=57, z=-51}
+[09Dec2024 20:19:22.648] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=57, z=-54}
+[09Dec2024 20:19:45.025] [Worker-Main-189/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-352, y=57, z=-21}
+[09Dec2024 20:19:45.025] [Worker-Main-189/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-352, y=57, z=-18}
+[09Dec2024 20:19:45.032] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-324, y=56, z=-21}
+[09Dec2024 20:19:45.032] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-324, y=56, z=-18}
+[09Dec2024 20:23:18.264] [ForkJoinPool.commonPool-worker-64/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> wtf
+[09Dec2024 20:23:23.444] [ForkJoinPool.commonPool-worker-64/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> porque pone la r como n
+[09Dec2024 20:23:52.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[09Dec2024 20:24:08.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15441ms or 308 ticks behind
+[09Dec2024 20:24:35.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[09Dec2024 20:24:35.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12521ms or 250 ticks behind
+[09Dec2024 20:24:55.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[09Dec2024 20:25:59.802] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@42613525]Trying to start horde event on day 10 with nextDay 10 and time 18000
+[09Dec2024 20:25:59.808] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@b64c539
+[09Dec2024 20:25:59.811] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[09Dec2024 20:25:59.811] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[09Dec2024 20:25:59.849] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[09Dec2024 20:25:59.849] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
