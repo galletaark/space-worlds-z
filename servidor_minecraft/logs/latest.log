@@ -1235,3 +1235,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 16:59:14.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iForming[/127.66.71.158:38421] logged in with entity id 19492 at (828.3492004690218, 28.0, 407.48750001192093)
 [09Dec2024 16:59:14.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iForming joined the game
 [09Dec2024 17:00:36.274] [ForkJoinPool.commonPool-worker-24/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> a
+[09Dec2024 17:21:52.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to iForming: a
