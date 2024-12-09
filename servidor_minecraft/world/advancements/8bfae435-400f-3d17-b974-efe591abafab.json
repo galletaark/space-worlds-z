@@ -21,6 +21,7 @@
     "criteria": {
       "minecraft:mushroom_fields": "2024-12-08 23:50:10 +0000",
       "minecraft:deep_ocean": "2024-12-08 23:49:44 +0000",
+      "minecraft:bamboo_jungle": "2024-12-09 18:05:36 +0000",
       "minecraft:beach": "2024-12-08 22:32:07 +0000",
       "minecraft:sparse_jungle": "2024-12-08 22:38:25 +0000",
       "minecraft:lukewarm_ocean": "2024-12-08 22:33:43 +0000",
@@ -392,6 +393,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-08 22:53:45 +0000",
+      "baked_potato": "2024-12-09 18:12:22 +0000",
       "porkchop": "2024-12-09 01:30:12 +0000",
       "bread": "2024-12-09 00:06:33 +0000",
       "golden_apple": "2024-12-09 00:05:53 +0000",
@@ -2134,36 +2136,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2024-12-09 18:03:19 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/copper_blueprint": {
-    "criteria": {
-      "copper_blueprint": "2024-12-09 17:53:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2024-12-09 18:03:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2024-12-09 18:02:10 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/iron_blueprint": {
-    "criteria": {
-      "iron_blueprint": "2024-12-09 17:54:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2024-12-09 17:52:30 +0000"
@@ -2173,6 +2145,42 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-12-09 17:52:30 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/copper_blueprint": {
+    "criteria": {
+      "copper_blueprint": "2024-12-09 17:53:39 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/iron_blueprint": {
+    "criteria": {
+      "iron_blueprint": "2024-12-09 17:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-09 18:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-09 18:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-09 18:03:19 +0000"
+    },
+    "done": true
+  },
+  "zombiekit:leon": {
+    "criteria": {
+      "leon": "2024-12-09 18:09:35 +0000"
     },
     "done": true
   },
