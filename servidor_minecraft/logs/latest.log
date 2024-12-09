@@ -3573,3 +3573,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 19:56:50.456] [Worker-Main-138/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-378, y=57, z=-14}
 [09Dec2024 19:59:38.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: a}
 [09Dec2024 20:02:44.204] [ForkJoinPool.commonPool-worker-61/INFO] [net.minecraft.server.MinecraftServer/]: <RIOTNyx> de 40 personas solo yo estoy conectado xd
+[09Dec2024 20:07:14.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to RIOTNyx: ga
+[09Dec2024 20:10:26.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx has made the advancement [Sweet Dreams]
