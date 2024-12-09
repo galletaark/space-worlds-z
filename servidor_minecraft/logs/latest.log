@@ -1074,3 +1074,112 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 15:46:55.450] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
 [09Dec2024 15:46:55.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iForming has made the advancement [Enchanter]
 [09Dec2024 15:48:43.239] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[09Dec2024 15:50:11.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rebondrake5556[/127.223.108.19:35803] logged in with entity id 1838 at (475.29092984077687, 67.61936467003841, 383.1002294982615)
+[09Dec2024 15:50:11.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 joined the game
+[09Dec2024 15:51:09.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[09Dec2024 15:51:58.494] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/scarasol/zombiekit/entity/mechanics/HeavyMachineGunEntity$Direction
+[09Dec2024 15:52:08.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9619ms or 192 ticks behind
+[09Dec2024 15:52:08.316] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[09Dec2024 15:52:25.972] [ForkJoinPool.commonPool-worker-7/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> casi muero
+[09Dec2024 15:52:26.771] [ForkJoinPool.commonPool-worker-7/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> pe
+[09Dec2024 15:52:53.275] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[09Dec2024 15:54:41.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iForming lost connection: Disconnected
+[09Dec2024 15:54:41.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iForming left the game
+[09Dec2024 15:55:03.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 lost connection: Disconnected
+[09Dec2024 15:55:03.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 left the game
+[09Dec2024 15:55:45.473] [ForkJoinPool.commonPool-worker-8/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> a
+[09Dec2024 15:59:01.306] [ForkJoinPool.commonPool-worker-9/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[09Dec2024 15:59:01.358] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PugaGameplays[/127.11.73.71:54183] logged in with entity id 3280 at (173.93907190303943, 77.0, 1045.1024509552533)
+[09Dec2024 15:59:01.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PugaGameplays joined the game
+[09Dec2024 15:59:30.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PugaGameplays was slain by Zombie
+[09Dec2024 15:59:45.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PugaGameplays lost connection: Disconnected
+[09Dec2024 15:59:45.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PugaGameplays left the game
+[09Dec2024 16:00:01.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rebondrake5556[/127.223.108.19:38345] logged in with entity id 3813 at (482.4499150411574, 63.5, 376.69999998807907)
+[09Dec2024 16:00:01.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 joined the game
+[09Dec2024 16:00:05.529] [ForkJoinPool.commonPool-worker-9/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[09Dec2024 16:00:05.566] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PugaGameplays[/127.11.73.71:46633] logged in with entity id 3844 at (193.5, 78.0, 978.5)
+[09Dec2024 16:00:05.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PugaGameplays joined the game
+[09Dec2024 16:00:08.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PugaGameplays lost connection: Disconnected
+[09Dec2024 16:00:08.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PugaGameplays left the game
+[09Dec2024 16:00:32.364] [ForkJoinPool.commonPool-worker-9/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[09Dec2024 16:00:32.401] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PugaGameplays[/127.11.73.71:44219] logged in with entity id 4078 at (193.5, 78.0, 978.5)
+[09Dec2024 16:00:32.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PugaGameplays joined the game
+[09Dec2024 16:00:42.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[09Dec2024 16:00:43.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[09Dec2024 16:00:45.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[09Dec2024 16:01:02.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=472, y=71, z=389} BlockPos{x=469, y=69, z=389}
+[09Dec2024 16:01:26.398] [ForkJoinPool.commonPool-worker-9/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> cuando drop
+[09Dec2024 16:01:44.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[09Dec2024 16:01:55.811] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[09Dec2024 16:02:02.903] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[09Dec2024 16:02:03.195] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Orientation
+[09Dec2024 16:02:03.196] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/BuildingInfo$StreetType
+[09Dec2024 16:02:03.197] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/api/RailChunkType
+[09Dec2024 16:02:03.198] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Railway$RailDirection
+[09Dec2024 16:02:03.233] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/LostCityTerrainFeature$AvoidChunk
+[09Dec2024 16:02:09.792] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[09Dec2024 16:02:26.650] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[09Dec2024 16:02:26.652] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[09Dec2024 16:02:28.571] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Transform
+[09Dec2024 16:02:28.572] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/LostCityTerrainFeature$HardAirSetting
+[09Dec2024 16:02:28.576] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/Direction
+[09Dec2024 16:02:28.576] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/regassets/data/CitySphereSettings$CitySpherePartOrigin
+[09Dec2024 16:02:28.691] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-378, y=56, z=-18}
+[09Dec2024 16:02:28.692] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=56, z=-17}
+[09Dec2024 16:02:28.692] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=56, z=-15}
+[09Dec2024 16:02:28.693] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-378, y=57, z=-14}
+[09Dec2024 16:02:28.985] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=56, z=-17}
+[09Dec2024 16:02:28.985] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=56, z=-15}
+[09Dec2024 16:02:32.035] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcjty/lostcities/worldgen/lost/regassets/data/CitySphereSettings$CitySphereCenterType
+[09Dec2024 16:02:35.180] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[09Dec2024 16:02:35.181] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[09Dec2024 16:02:35.181] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[09Dec2024 16:02:35.182] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[09Dec2024 16:02:35.182] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[09Dec2024 16:02:35.182] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[09Dec2024 16:02:35.183] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[09Dec2024 16:02:35.183] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[09Dec2024 16:03:36.012] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[09Dec2024 16:03:37.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Rebondrake5556: Location (249.50742530822754, 101.79344457387924, 1557.0) too far away from hit block BlockPos{x=249, y=101, z=1558}.
+[09Dec2024 16:03:37.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Rebondrake5556: Location (249.50742530822754, 101.79344457387924, 1557.0) too far away from hit block BlockPos{x=249, y=101, z=1558}.
+[09Dec2024 16:03:37.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Rebondrake5556: Location (249.35627895593643, 101.79344457387924, 1557.0) too far away from hit block BlockPos{x=249, y=101, z=1558}.
+[09Dec2024 16:03:37.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Rebondrake5556: Location (249.35627895593643, 101.79344457387924, 1557.0) too far away from hit block BlockPos{x=249, y=101, z=1558}.
+[09Dec2024 16:03:44.736] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[09Dec2024 16:04:08.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Adventure Mode]
+[09Dec2024 16:04:09.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[09Dec2024 16:04:33.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PugaGameplays fell from a high place
+[09Dec2024 16:04:42.426] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <Rebondrake5556> primer muerto
+[09Dec2024 16:04:47.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PugaGameplays moved too quickly! -6.5164437441754615,-6.9225126146106675,4.005246046904404
+[09Dec2024 16:04:49.041] [ForkJoinPool.commonPool-worker-11/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> gg
+[09Dec2024 16:04:59.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Reinksl: Location (475.1875, 65.80180883407593, 374.784509152174) too far away from hit block BlockPos{x=476, y=64, z=375}.
+[09Dec2024 16:04:59.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Reinksl: Location (475.1875, 65.77855908870697, 374.7879527658224) too far away from hit block BlockPos{x=476, y=64, z=375}.
+[09Dec2024 16:05:03.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Reinksl: Location (475.2478197813034, 65.875, 375.9817718267441) too far away from hit block BlockPos{x=476, y=64, z=375}.
+[09Dec2024 16:05:15.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PugaGameplays lost connection: Disconnected
+[09Dec2024 16:05:15.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PugaGameplays left the game
+[09Dec2024 16:05:25.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 lost connection: Disconnected
+[09Dec2024 16:05:25.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 left the game
+[09Dec2024 16:06:20.123] [ForkJoinPool.commonPool-worker-12/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[09Dec2024 16:06:20.152] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iForming[/127.66.71.158:49331] logged in with entity id 7497 at (469.7474660357592, 65.0, 381.0536520417507)
+[09Dec2024 16:06:20.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iForming joined the game
+[09Dec2024 16:08:04.268] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$FishHookState
+[09Dec2024 16:08:20.895] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$OpenWaterType
+[09Dec2024 16:09:12.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=51, z=378} BlockPos{x=457, y=50, z=378}
+[09Dec2024 16:09:12.704] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=51, z=378} BlockPos{x=457, y=50, z=378}
+[09Dec2024 16:09:12.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=51, z=378} BlockPos{x=457, y=50, z=378}
+[09Dec2024 16:09:12.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=51, z=378} BlockPos{x=457, y=50, z=378}
+[09Dec2024 16:09:12.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=51, z=378} BlockPos{x=457, y=50, z=378}
+[09Dec2024 16:09:13.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=51, z=378} BlockPos{x=457, y=50, z=378}
+[09Dec2024 16:09:36.145] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[09Dec2024 16:10:17.649] [ForkJoinPool.commonPool-worker-14/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> 537 388
+[09Dec2024 16:12:49.695] [ForkJoinPool.commonPool-worker-15/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> pon eso aca
+[09Dec2024 16:12:50.545] [ForkJoinPool.commonPool-worker-15/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> mira
+[09Dec2024 16:14:26.495] [ForkJoinPool.commonPool-worker-16/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> forming
+[09Dec2024 16:14:45.545] [ForkJoinPool.commonPool-worker-16/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> me voy a tener q ir
+[09Dec2024 16:15:04.044] [ForkJoinPool.commonPool-worker-16/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> ni yo se namas me dijeron q tengo q ir obligado
+[09Dec2024 16:17:55.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reinksl lost connection: Disconnected
+[09Dec2024 16:17:55.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl left the game
+[09Dec2024 16:30:01.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to iForming: lavando platos
+[09Dec2024 16:30:07.095] [ForkJoinPool.commonPool-worker-17/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> q?
+[09Dec2024 16:37:35.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iForming has made the advancement [A Seedy Place]
+[09Dec2024 16:38:28.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iForming has made the advancement [The Parrots and the Bats]
+[09Dec2024 16:38:36.152] [ForkJoinPool.commonPool-worker-18/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> XD
