@@ -2923,3 +2923,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 18:20:34.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iForming joined the game
 [09Dec2024 18:21:20.457] [ForkJoinPool.commonPool-worker-41/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> asd
 [09Dec2024 18:22:26.515] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[09Dec2024 18:28:48.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iForming lost connection: Disconnected
+[09Dec2024 18:28:48.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iForming left the game
