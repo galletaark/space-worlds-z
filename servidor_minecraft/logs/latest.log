@@ -1236,3 +1236,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 16:59:14.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iForming joined the game
 [09Dec2024 17:00:36.274] [ForkJoinPool.commonPool-worker-24/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> a
 [09Dec2024 17:21:52.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to iForming: a
+[09Dec2024 17:27:52.166] [ForkJoinPool.commonPool-worker-26/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> asd+
+[09Dec2024 17:27:54.463] [ForkJoinPool.commonPool-worker-26/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> wtf
+[09Dec2024 17:31:45.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Reinksl[/127.179.118.208:38113] logged in with entity id 21164 at (469.90584525738365, 64.875, 392.053293900907)
+[09Dec2024 17:31:45.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinksl joined the game
+[09Dec2024 17:32:11.922] [ForkJoinPool.commonPool-worker-27/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> hola
+[09Dec2024 17:32:58.331] [ForkJoinPool.commonPool-worker-27/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> hola
+[09Dec2024 17:33:02.081] [ForkJoinPool.commonPool-worker-27/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> q fue
+[09Dec2024 17:33:05.852] [ForkJoinPool.commonPool-worker-27/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> no volvias a las 3
+[09Dec2024 17:33:18.946] [ForkJoinPool.commonPool-worker-27/INFO] [net.minecraft.server.MinecraftServer/]: <Reinksl> todavia no me han venido a buscar entonces aprovecho el tiempo
+[09Dec2024 17:33:24.211] [ForkJoinPool.commonPool-worker-27/INFO] [net.minecraft.server.MinecraftServer/]: <iForming> a ok
