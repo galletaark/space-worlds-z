@@ -2925,3 +2925,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 18:22:26.515] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
 [09Dec2024 18:28:48.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iForming lost connection: Disconnected
 [09Dec2024 18:28:48.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iForming left the game
+[09Dec2024 18:47:08.450] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIOTNyx[/127.177.208.185:41359] logged in with entity id 39826 at (2498.063945663951, 102.5, -4356.87900476571)
+[09Dec2024 18:47:08.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIOTNyx joined the game
