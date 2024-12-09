@@ -8611,3 +8611,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 18:28:48.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iForming left the game
 [09Dec2024 18:31:42.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [09Dec2024 18:31:42.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[09Dec2024 18:36:42.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[09Dec2024 18:36:42.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[09Dec2024 18:41:42.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[09Dec2024 18:41:42.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
