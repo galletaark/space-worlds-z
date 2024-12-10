@@ -1096,3 +1096,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Dec2024 16:53:48.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 joined the game
 [10Dec2024 16:54:08.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 lost connection: Disconnected
 [10Dec2024 16:54:08.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 left the game
+[10Dec2024 16:57:45.952] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@58663d4a[id=<null>,name=Rebondrake5556,properties={},legacy=false] (/127.223.108.19:48381) lost connection: Disconnected
+[10Dec2024 16:57:53.207] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rebondrake5556[/127.223.108.19:50861] logged in with entity id 8766 at (469.6005801930476, 54.0, 469.9523202412506)
+[10Dec2024 16:57:53.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 joined the game
+[10Dec2024 16:58:12.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[10Dec2024 16:58:13.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Spectator Mode]
+[10Dec2024 16:58:20.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Survival Mode]
+[10Dec2024 16:58:21.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rebondrake5556: Set own game mode to Creative Mode]
+[10Dec2024 17:00:04.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 moved too quickly! 10.43226103925224,0.06723128782741128,-0.5324713132384318
+[10Dec2024 17:00:04.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9079ms or 181 ticks behind
+[10Dec2024 17:01:04.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: christopher360 lost connection: Disconnected
+[10Dec2024 17:01:04.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christopher360 left the game
+[10Dec2024 17:01:04.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rebondrake5556 lost connection: Disconnected
+[10Dec2024 17:01:04.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rebondrake5556 left the game
+[10Dec2024 17:01:04.537] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@33e5f6a1[id=<null>,name=Rebondrake5556,properties={},legacy=false] (/127.223.108.19:59727) lost connection: Disconnected
+[10Dec2024 17:01:04.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 45041ms or 900 ticks behind
+[10Dec2024 17:01:51.898] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@792de572[id=<null>,name=christopher360,properties={},legacy=false] (/127.169.229.35:60751) lost connection: Disconnected
+[10Dec2024 17:02:00.844] [ForkJoinPool.commonPool-worker-13/WARN] [SkinRestorer/]: Failed to fetch skin: no profile with uuid 123edf37-f863-30e9-ae88-12da165affe6
+[10Dec2024 17:02:00.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: christopher360[/127.169.229.35:42343] logged in with entity id 9931 at (469.39521369748877, 64.50133597911214, 376.6570249589626)
+[10Dec2024 17:02:00.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: christopher360 joined the game
