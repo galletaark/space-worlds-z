@@ -29,8 +29,10 @@
       "minecraft:forest": "2024-12-08 21:41:26 +0000",
       "minecraft:lush_caves": "2024-12-09 00:26:14 +0000",
       "minecraft:deep_cold_ocean": "2024-12-08 21:15:21 +0000",
+      "minecraft:desert": "2024-12-10 02:32:50 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-08 22:15:03 +0000",
       "minecraft:ocean": "2024-12-08 21:36:53 +0000",
+      "minecraft:warm_ocean": "2024-12-10 02:31:12 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-08 20:37:50 +0000",
       "minecraft:savanna": "2024-12-08 17:05:39 +0000",
       "minecraft:plains": "2024-12-08 17:04:58 +0000"
@@ -426,6 +428,7 @@
       "cooked_beef": "2024-12-08 17:14:12 +0000",
       "beef": "2024-12-08 17:15:14 +0000",
       "baked_potato": "2024-12-09 02:30:33 +0000",
+      "apple": "2024-12-10 02:52:39 +0000",
       "mutton": "2024-12-08 17:26:19 +0000",
       "bread": "2024-12-08 17:19:11 +0000",
       "golden_apple": "2024-12-08 17:21:30 +0000",
@@ -543,6 +546,7 @@
       "minecraft:spider": "2024-12-08 17:16:32 +0000",
       "minecraft:phantom": "2024-12-09 16:09:47 +0000",
       "minecraft:witch": "2024-12-08 17:19:47 +0000",
+      "minecraft:husk": "2024-12-10 03:09:55 +0000",
       "minecraft:zombie": "2024-12-08 17:22:46 +0000",
       "minecraft:drowned": "2024-12-09 00:15:59 +0000"
     },
@@ -2273,6 +2277,108 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2024-12-09 16:09:05 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/cryoniter": {
+    "criteria": {
+      "cryoniter": "2024-12-10 01:54:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-10 02:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-10 02:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-10 02:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-10 02:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-10 02:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-10 02:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-10 02:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-10 02:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-10 02:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2024-12-10 03:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-10 03:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2024-12-10 03:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-10 03:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-10 03:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2024-12-10 03:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-10 03:33:24 +0000"
     },
     "done": true
   },

@@ -746,6 +746,18 @@
     },
     "done": true
   },
+  "scguns:main/deep_dark/sculk_resonator": {
+    "criteria": {
+      "sculk_resonator": "2024-12-09 20:26:09 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/treated_brass/waltz_conversion": {
+    "criteria": {
+      "waltz_conversion": "2024-12-09 20:26:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 20:27:11 +0000"
@@ -800,12 +812,6 @@
     },
     "done": true
   },
-  "zombiekit:robo_cop": {
-    "criteria": {
-      "robo_cop": "2024-12-09 20:31:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 20:27:11 +0000"
@@ -839,12 +845,6 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 20:27:11 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/deep_dark/sculk_resonator": {
-    "criteria": {
-      "sculk_resonator": "2024-12-09 20:26:09 +0000"
     },
     "done": true
   },
@@ -884,12 +884,6 @@
     },
     "done": true
   },
-  "scguns:main/treated_brass/waltz_conversion": {
-    "criteria": {
-      "waltz_conversion": "2024-12-09 20:26:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 20:27:11 +0000"
@@ -905,6 +899,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 20:27:11 +0000"
+    },
+    "done": true
+  },
+  "zombiekit:robo_cop": {
+    "criteria": {
+      "robo_cop": "2024-12-09 20:31:20 +0000"
     },
     "done": true
   },
