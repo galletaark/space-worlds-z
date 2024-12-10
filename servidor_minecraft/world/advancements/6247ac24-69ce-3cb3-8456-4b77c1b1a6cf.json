@@ -914,15 +914,15 @@
     },
     "done": true
   },
-  "scguns:main/scorched/newborn_cyst": {
-    "criteria": {
-      "newborn_cyst": "2024-12-10 16:36:38 +0000"
-    },
-    "done": true
-  },
   "scguns:main/scorched/astella": {
     "criteria": {
       "astella": "2024-12-10 16:35:32 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/scorched/newborn_cyst": {
+    "criteria": {
+      "newborn_cyst": "2024-12-10 16:36:38 +0000"
     },
     "done": true
   },
